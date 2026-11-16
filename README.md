@@ -88,5 +88,3 @@ terraform destroy -var-file=variables.tfvars --auto-approve
 ✅ **SSL/TLS Encryption** – Secure communication with ACM  
 
 ---
-
-![Follow Me](https://imgur.com/2j7GSPs.png)  
