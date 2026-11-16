@@ -15,15 +15,6 @@ This project demonstrates a **Two-Tier architecture on AWS** using **Terraform**
 - **Database Integration** – Managed Amazon RDS deployment  
 - **SSL & CDN Optimization** – Secure connections and content acceleration  
 
----
-
-## 📖 Step-by-Step Guide  
-
-📌 **Read the full tutorial with screenshots**:  
-[Deploy Two-Tier Architecture on AWS using Terraform](https://blog.prodevopsguytech.com/deploy-two-tier-architecture-on-aws-using-terraform)  
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -35,8 +26,7 @@ This project demonstrates a **Two-Tier architecture on AWS** using **Terraform**
 ### 1️⃣ Clone the Repository  
 
 ```bash
-git clone https://github.com/NotHarshhaa/DevOps-Projects
-cd DevOps-Projects/DevOps-Project-11/
+git clone https://github.com/SatishPolaka/terraform-modular-aws-architecture.git
 ```  
 
 ### 2️⃣ Configure Variables
@@ -98,25 +88,5 @@ terraform destroy -var-file=variables.tfvars --auto-approve
 ✅ **SSL/TLS Encryption** – Secure communication with ACM  
 
 ---
-
-## 🛠️ Author & Community  
-
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.  
-
-📧 **Connect with me:**
-
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguytech.com)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-- **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)  
-
----
-
-## ⭐ Support the Project  
-
-If you found this helpful, consider **starring** ⭐ the repository and sharing it with your network! 🚀  
-
-### 📢 Stay Connected  
 
 ![Follow Me](https://imgur.com/2j7GSPs.png)  
